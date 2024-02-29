@@ -28,7 +28,7 @@ inference_service = ServicePackageFactory().get_service_package(
 
 port = 8085
 
-# Setup the client
+ # Setup the client
 channel = grpc.insecure_channel(f"localhost:{port}")
 client_stub = inference_service.stub_class(channel)
 
