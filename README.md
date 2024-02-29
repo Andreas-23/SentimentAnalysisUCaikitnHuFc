@@ -1,7 +1,7 @@
 # Text Sentiment Analysis using Caikit and Hugging Face
 
 <p align="center">
-  <img src="https://www.datanami.com/wp-content/uploads/2023/08/ibm-hugging-face-300x222.png" alt="Text Sentiment Analysis using Caikit and Hugging Face">
+  <img src="https://author-workbench-prod.s3.us.cloud-object-storage.appdomain.cloud/u2c2g0og6uzl4zb210ligkdsqd9s">
 </p>
 
 ## Welcome to the World of Sentiment Analysis!
@@ -45,4 +45,4 @@ This adventure is licensed under the Curious Minds Exploration License.
 ## Let's Connect!
 
 For inquiries, questions, or tales from your own sentiment analysis adventures, send a message to:
-- Email: [Your Email Address]
+- Email: andreas.sunbae@gmail.com
